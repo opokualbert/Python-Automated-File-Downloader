@@ -1,6 +1,6 @@
 # Python and Selenium Automated File Downloader
 
-<img src="floppydisk.jpg.JPG">
+<img src="floppydisk.jpg">
 
 Downloading a single file from a website is simply easy and does not require a tutorial whatsoever. Where it  becomes a daunting task is when you need to download multiple files of say hundreds or thousands. For most employees, a big percentage of their daily tasks involve downloading files and then the files are stitched together for a report or analysis.
 
